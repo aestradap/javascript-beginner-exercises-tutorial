@@ -1,3 +1,8 @@
+function sing(){
+    let lyrics1 = "let it be";
+    let lyrics2 = "there will be an answer";
+    let lyrics3 = "whisper words of wisdom";
+    let allLyrics = "let it be";
 
 const sing =()=>{
     let song ="";
